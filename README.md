@@ -21,8 +21,8 @@ This section provides an overview of how to use the text summarization code prov
 ## Smmarization Techniques
 There are two main categories of summarization techniques:
 
--Extractive Summarization: Selects important sentences or phrases from the input text.
+- Extractive Summarization: Selects important sentences or phrases from the input text.
 
--Abstractive Summarization: Generates new sentences that capture the essence of the input text.
+- Abstractive Summarization: Generates new sentences that capture the essence of the input text.
 
 
