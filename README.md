@@ -12,9 +12,9 @@ This section provides an overview of how to use the text summarization code prov
 
 - Select a Summarization Technique: Choose between extractive or abstractive summarization methods based on your requirements. Extractive methods select sentences from the input text, while abstractive methods generate new sentences.
 
--Implement Summarization Algorithm: Depending on your choice of technique, implement the algorithm. Commonly used techniques include TF-IDF, TextRank, Gensim's LDA, Seq2Seq, or Transformer-based models (e.g., BERT, GPT-2).
+- Implement Summarization Algorithm: Depending on your choice of technique, implement the algorithm. Commonly used techniques include TF-IDF, TextRank, Gensim's LDA, Seq2Seq, or Transformer-based models (e.g., BERT, GPT-2).
 
--Evaluate: Use evaluation metrics like ROUGE, BLEU, or METEOR to assess the quality of your summaries. See the Evaluation section for more details.
+- Evaluate: Use evaluation metrics like ROUGE, BLEU, or METEOR to assess the quality of your summaries. See the Evaluation section for more details.
 
 - Fine-Tuning (Optional): If you are using deep learning-based approaches, consider fine-tuning on your specific dataset to improve summarization performance.
 
