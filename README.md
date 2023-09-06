@@ -1,10 +1,10 @@
 # Text Summarization using NLP
 
-##Introduction
+## Introduction
 
 Text summarization is the process of automatically condensing a large amount of text into a shorter, coherent version while retaining the most important information. This repository contains code and resources for implementing text summarization using Natural Language Processing (NLP) techniques. Whether you want to generate extractive summaries (selecting important sentences) or abstractive summaries (generating new sentences), this project provides a foundation for building your text summarization system.
 
-##Usage
+## Usage
 
 This section provides an overview of how to use the text summarization code provided in this repository:
 
